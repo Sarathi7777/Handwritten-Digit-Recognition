@@ -9,7 +9,7 @@ A web application that recognizes handwritten digits using a deep learning model
 - Built with Flask, Keras, and TensorFlow
 
 ## Demo
-![Demo Screenshot](demo_screenshot.png)
+![Demo Screenshot]()
 
 ## Getting Started
 
